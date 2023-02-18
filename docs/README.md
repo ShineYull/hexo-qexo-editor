@@ -5,7 +5,7 @@ heroText: Qexo魔改教程
 tagline: 每个Hexo博主都可以入门的博客后台魔改
 actions:
   - text: 快速上手
-    link: /guide/getting-started.html
+    link: /guide/
     type: primary
   - text: 项目简介
     link: /guide/

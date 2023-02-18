@@ -1,6 +1,4 @@
 export const pagesData = {
-  // path: /contributing.html
-  "v-6ce48554": () => import(/* webpackChunkName: "v-6ce48554" */"E:/ShineHome/vuepress/hexo-qexo-editor/docs/.vuepress/.temp/pages/contributing.html.js").then(({ data }) => data),
   // path: /
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"E:/ShineHome/vuepress/hexo-qexo-editor/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /guide/getting-started.html
