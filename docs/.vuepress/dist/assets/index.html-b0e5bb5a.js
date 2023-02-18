@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as s,R as n}from"./framework-204010b2.js";const _={},c=n("p",null,"sdfasdf",-1),o=[c];function a(r,d){return t(),s("div",null,o)}const f=e(_,[["render",a],["__file","index.html.vue"]]);export{f as default};
