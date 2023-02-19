@@ -23,5 +23,6 @@ export default {
         ],
         lastUpdatedText: "最近一次更新",
         contributorsText: "作者",
+        contributors: false,
     }),
 }

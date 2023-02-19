@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fe8f648a","path":"/guide/subscribe.html","title":"订阅功能","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1676782672000},"filePathRelative":"guide/subscribe.md"}');export{e as data};
