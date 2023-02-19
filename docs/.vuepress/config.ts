@@ -2,7 +2,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 
 export default {
     dest: 'public',
-    title: 'Qexo魔改教程',
+    title: 'Qexo博客后台魔改教程',
     description: '让每个Hexo博主都能轻松实现自己的后台魔改',
     head: [
         ['link', { rel: 'icon', href: '/images/milkTea_favicon_200.png' }],
