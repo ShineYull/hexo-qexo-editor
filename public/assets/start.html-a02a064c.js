@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-621628ba","path":"/guide/start.html","title":"从零开始","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Qexo入门","slug":"qexo入门","link":"#qexo入门","children":[]}],"git":{"updatedTime":1676782672000},"filePathRelative":"guide/start.md"}');export{e as data};
