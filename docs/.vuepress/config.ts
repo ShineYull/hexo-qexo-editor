@@ -1,4 +1,6 @@
 import { defaultTheme } from '@vuepress/theme-default'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default {
     dest: 'public',
@@ -6,6 +8,14 @@ export default {
     description: '让每个Hexo博主都能轻松实现自己的后台魔改',
     head: [
         ['link', { rel: 'icon', href: '/images/milkTea_favicon_200.png' }],
+    ],
+    plugins: [
+        // docsearchPlugin({
+        //   // 配置项
+        // }),
+        searchPlugin({
+            // 配置项
+        }),
     ],
     theme: defaultTheme({
         // 默认主题配置
