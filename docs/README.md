@@ -11,7 +11,7 @@ features:
 - title: 教程合集
   details: 博客后台的魔改文章集结地，你可以找到几乎所有的魔改方向。
 - title: 群友支持
-  details: 有任何问题都可以进群寻求帮助，企鹅群号：398637405。
+  details: 糖果屋企鹅群 589330978 互相交流魔改经验。
 - title: 全部收录
   details: 任何人都可以利用GitHub将文章提交到本站之中。
 footer: MIT Licensed | Copyright © 2023 Shine
