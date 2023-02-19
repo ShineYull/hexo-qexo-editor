@@ -16,8 +16,10 @@ export default {
         ],
         // 所有页面会使用相同的侧边栏
         sidebar: [
-            '/guide/',
-            '/guide/start'
+            {text: '简介', link:'/guide/'},
+            '/guide/start',
+            '/guide/subscribe',
+            '/guide/essay',
         ],
         lastUpdatedText: "最近一次更新",
         contributorsText: "作者",

@@ -4,12 +4,9 @@ heroImage: /images/shineyu_avatar.webp
 heroText: Qexo魔改教程
 tagline: 每个Hexo博主都可以入门的博客后台魔改
 actions:
-  - text: 快速上手
-    link: /guide/start
-    type: primary
-  - text: 项目简介
+  - text: 快速上手 →
     link: /guide/
-    type: secondary
+    type: primary
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。

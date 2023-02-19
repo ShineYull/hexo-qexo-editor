@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9c807f30","path":"/guide/essay.html","title":"即可短文功能","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/essay.md"}');export{e as data};

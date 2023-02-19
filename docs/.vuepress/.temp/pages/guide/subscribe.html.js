@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-fe8f648a\",\"path\":\"/guide/subscribe.html\",\"title\":\"订阅功能\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"guide/subscribe.md\"}")
