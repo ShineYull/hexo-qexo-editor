@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/shineyu_avatar.webp
+heroImage: /images/kafeibei.webp
 heroText: Qexo博客后台魔改教程
 tagline: 每个Hexo博主都可以入门的博客后台魔改
 actions:

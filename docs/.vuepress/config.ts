@@ -19,7 +19,7 @@ export default {
     ],
     theme: defaultTheme({
         // 默认主题配置
-        logo: '/images/shineyu_avatar.webp',
+        logo: '/images/kafeibei.webp',
         navbar: [
             { text: '首页', link: '/' },
             { text: '项目Github', link: 'https://github.com/ShineYull/hexo-qexo-editor' }
