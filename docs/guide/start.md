@@ -13,3 +13,11 @@
 [Qexo入门之如何新建侧边栏入口及页面](https://blog.shineyu.cn/qexo-new-page.html) - Shine
 
 > qexo创建一个新页面的逻辑很好捋清楚，属于一看就废。
+
+
+## 创建自定义对公api
+如何创建第一个对公api？
+
+[Qexo入门之自定义对公api](https://blog.shineyu.cn/qexo-create-public-api.html) - Shine
+
+> qexo创建第一个对公api，用来给别人获取你api里提供的网页，有手就会。。卧槽我手呢？
