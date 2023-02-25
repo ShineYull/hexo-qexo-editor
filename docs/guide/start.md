@@ -21,3 +21,10 @@
 [Qexo入门之自定义对公api](https://blog.shineyu.cn/qexo-create-public-api.html) - Shine
 
 > qexo创建第一个对公api，用来给别人获取你api里提供的网页，有手就会。。卧槽我手呢？
+
+## 创建自定义私有api
+如何创建第一个私有api？
+
+[Qexo入门之自定义私有api](https://blog.shineyu.cn/qexo-create-private-api.html) - Shine
+
+> qexo创建一个私有api，用来给登录认证后的用户使用，自定义查看api密钥的私有api。
