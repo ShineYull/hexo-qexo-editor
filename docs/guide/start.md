@@ -28,3 +28,10 @@
 [Qexo入门之自定义私有api](https://blog.shineyu.cn/qexo-create-private-api.html) - Shine
 
 > qexo创建一个私有api，用来给登录认证后的用户使用，自定义查看api密钥的私有api。
+
+## 创建与操作自定义数据库
+如何创建和操作一个自定义的数据库？
+
+[Qexo入门之自定义数据库](https://blog.shineyu.cn/qexo-create-db.html) - Shine
+
+> qexo创建并操作一个自定义的数据库，在后台页面中进行对数据库的增查，内容可自行扩展。
