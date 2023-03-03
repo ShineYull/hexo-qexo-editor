@@ -35,3 +35,10 @@
 [Qexo入门之自定义数据库](https://blog.shineyu.cn/qexo-create-db.html) - Shine
 
 > qexo创建并操作一个自定义的数据库，在后台页面中进行对数据库的增查，内容可自行扩展。
+
+## 创建多线程
+如何在qexo中使用python多线程模块？
+
+[Qexo入门之多线程发送邮件](https://blog.shineyu.cn/qexo-multithreading.html) - Shine
+
+> qexo关于多线程的使用，并用它来解决发送邮件的请求超时问题。
