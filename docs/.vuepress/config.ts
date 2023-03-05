@@ -28,6 +28,7 @@ export default {
         sidebar: [
             {text: '简介', link:'/guide/'},
             '/guide/start',
+            '/guide/postlike',
             '/guide/subscribe',
             '/guide/essay',
         ],

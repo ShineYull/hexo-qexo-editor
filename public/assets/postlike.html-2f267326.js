@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-06b37996","path":"/guide/postlike.html","title":"文章点赞功能","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null},"filePathRelative":"guide/postlike.md"}');export{e as data};
